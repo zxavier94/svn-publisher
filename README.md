@@ -1,0 +1,4 @@
+# svn-publisher
+jenkins plugin svn publisher
+
+该插件可以在项目构建时选择是否要等项目构建成功后把指定文件上传至指定的svn仓库，若svn仓库目录不存在，该插件可以自动创建目录
